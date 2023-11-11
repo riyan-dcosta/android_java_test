@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Andriod Java</string>
+    <string name="app_name">Android Java</string>
+    <string name="product">Product</string>
+    <string name="details">Details</string>
 </resources>
